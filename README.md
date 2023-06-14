@@ -1,4 +1,9 @@
 ### Welcome! 👋 :otter:
+I'm Dani, a second year computer science stuedent at UBC. 
+
+I'm currently working on a personal website, which I'm super excited about.
+Feel free to reach out to me <mailto:danirenn16@gmail.com> :)
+
 
 <!--
 **daniCodes1/daniCodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
