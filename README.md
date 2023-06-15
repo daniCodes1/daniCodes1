@@ -1,7 +1,8 @@
 ### Welcome! 👋 :otter:
 I'm Dani, a second year computer science student at UBC. 
 
-I'm currently working on a personal website, which I'm super excited about!
+I'm currently working on a personal website, which will help you get to know me better. 
+Super excited since there is so much more to come!
 
 Want to reach out? I'm available by [email](mailto:danirenn16@gmail.com) :)
 
