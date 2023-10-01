@@ -1,5 +1,5 @@
 ### Welcome! 👋 :otter:
-I'm Dani, a second year computer science student at UBC. 
+I'm Dani, a third year computer science student at UBC. 
 
 I'm currently working on a personal website, which will help you get to know me better. 
 Super excited, there is so much more to come!
