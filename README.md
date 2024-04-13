@@ -1,10 +1,10 @@
 ### Welcome! 
 I'm Dani, a third year computer science student at UBC. 
 
-Some things I'm currently working on:
+Some things I have been working on:
   * a [personal website](https://daniCodes1.github.io), which will help you get to know me better :smiley:
   * an application that reads and analyzes forms for a company (still a private repository, uses Python and JavaScript)
-  * an [intelligent dashboard](https://github.com/daniCodes1/IntelligentDashboard/tree/templateBranch) to support your daily tasks
+  * an [intelligent dashboard]([https://github.com/daniCodes1/IntelligentDashboard/tree/templateBranch](https://github.com/daniCodes1/IntelligentDashboard)) to support your daily tasks
 
 Want to reach out? I'm available by [email](mailto:danirenn16@gmail.com) 🫶
 
