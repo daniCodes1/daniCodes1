@@ -6,7 +6,7 @@ Some things I have been working on:
   * an application that reads and analyzes forms for a company (uses Python and JavaScript)
   * an [intelligent dashboard](https://github.com/daniCodes1/IntelligentDashboard) to support your daily tasks
 
-Want to reach out? I'm available by [email](mailto:danirenn16@gmail.com) and [LinkedIn](https://ca.linkedin.com/in/dani-ren) 🫶
+Want to reach out? I'm available by [email](mailto:danirenn16@gmail.com) and [LinkedIn](https://ca.linkedin.com/in/dani-ren) 
 
 <!--
 **daniCodes1/daniCodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
