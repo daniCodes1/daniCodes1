@@ -1,5 +1,5 @@
 ### Welcome! 
-I'm Dani, a third year computer science student at UBC. 
+I'm Dani, a fourth year computer science student at UBC. 
 
 Some things I have been working on:
   * a [personal website](https://daniCodes1.github.io), which will help you get to know me better :smiley:
