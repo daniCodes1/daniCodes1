@@ -1,12 +1,12 @@
 ### Welcome! 
-I'm Dani, a fourth year computer science student at UBC. 
+I'm Dani, a fourth-year computer science student at UBC with 7 years of experience in diverse fields. Most recently, I’ve completed an internship focused on software development and data analysis, where I worked on building solutions that are both efficient and scalable.
 
 Some things I have been working on:
   * a [personal website](https://daniCodes1.github.io), which will help you get to know me better :smiley:
-  * an application that reads and analyzes forms for a company (uses Python and JavaScript)
+  * an application that reads and analyzes forms for a company (Python OCR and JavaScript)
   * an [intelligent dashboard](https://github.com/daniCodes1/IntelligentDashboard) to support your daily tasks
 
-Want to reach out? I'm available by [email](mailto:danirenn16@gmail.com) and [LinkedIn](https://ca.linkedin.com/in/dani-ren) 
+Want to reach out? I'm available by [email](mailto:danirenn16@gmail.com)!
 
 <!--
 **daniCodes1/daniCodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
