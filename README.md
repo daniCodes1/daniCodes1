@@ -1,9 +1,7 @@
 ### Welcome! 
 I’m Dani, a final-year Computer Science student at UBC. I recently completed a co-op in backend engineering, where I worked on systems supporting data pipelines and ingestion workflows using tools like Jenkins and cloud services in production environments.
 
-I enjoy the nature of adapting quickly and tackling new project demands, whether that means learning a new tool, diving into unfamiliar systems, or solving problems end-to-end. Always open to exploring new technologies and improving how things work 🌱
-
-Through my degree and work experience, I’ve enjoyed learning across different areas of software and adapting quickly to new project demands, whether that’s picking up a new tool, getting familiar with an unfamiliar system, or owning a problem end-to-end. I’m always looking to explore new technologies and improve how things work  🌱
+Through my degree and work experience, I’ve enjoyed learning across different areas of software and adapting quickly to new project demands, whether that’s picking up a new tool, getting familiar with an unfamiliar system, or owning a problem end-to-end. I’m always looking to explore new technologies and improve how things work 💭
 
 Feel free to reach out, I'm happy to connect by [email](mailto:danirenn16@gmail.com)! 📧
 
