@@ -1,9 +1,11 @@
-### Welcome! 
-I'm Dani, a final-year Computer Science student at UBC and a software developer focused on building reliable, scalable systems. I’m currently working on backend engineering and data automation - supporting large-scale data pipelines, external and internal data ingestion and processing, and production workflows powered by Jenkins and cloud services.
+c### Welcome! 
+I’m Dani, a final-year Computer Science student at UBC. I recently completed a co-op in backend engineering, where I worked on systems supporting data pipelines and ingestion workflows using tools like Jenkins and cloud services in production environments.
 
 I enjoy the nature of adapting quickly and tackling new project demands, whether that means learning a new tool, diving into unfamiliar systems, or solving problems end-to-end. Always open to exploring new technologies and improving how things work 🌱
 
-Feel free to reach out by email, I'm happy to connect by [email](mailto:danirenn16@gmail.com)! 📧
+Through my degree and work experience, I’ve enjoyed learning across different areas of software and adapting quickly to new project demands, whether that’s picking up a new tool, getting familiar with an unfamiliar system, or owning a problem end-to-end. I’m always looking to explore new technologies and improve how things work  🌱
+
+Feel free to reach out, I'm happy to connect by [email](mailto:danirenn16@gmail.com)! 📧
 
 <!--
 **daniCodes1/daniCodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
