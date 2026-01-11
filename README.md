@@ -1,9 +1,26 @@
-### Welcome! 
-I’m Dani, a final-year Computer Science student at UBC. I recently completed a co-op in backend engineering, where I worked on systems supporting data pipelines and ingestion workflows using tools like Jenkins and cloud services in production environments.
 
-Through my degree and work experience, I’ve enjoyed learning across different areas of software and adapting quickly to new project demands, whether that’s picking up a new tool, getting familiar with an unfamiliar system, or owning a problem end-to-end. I’m always looking to explore new technologies and improve how things work 💭
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&theme=pastel)
 
-Feel free to reach out, I'm happy to connect by [email](mailto:danirenn16@gmail.com)! 📧
+## Hi, I'm Dani 👋 
+Final-year **Computer Science student at UBC** who loves building things that ship! 🛳️
+
+Recently completed co-ops across **backend and frontend**, working on data pipelines, automation, and user-facing tools and interfaces.
+
+## Some Highlights ✨
+
+### 🚀 2025 
+Delivered production-grade improvements across large-scale analytics pipelines and unblocking multi-region data ingestion, strengthening CI/CD and data integrity for customer-facing systems.
+### 🚀 2024
+Full-stack development of a Python/Flask/JavaScript platform, delivering interactive features (geospatial maps, dynamic charts, customizable automated reports) alongside performance optimizations that improved research and reporting workflows.
+
+## 🫶 What I love
+- Exploring how different systems work together  
+- Taking on new and exciting projects 
+
+## 🌐 Let’s connect
+📧 [danirenn16@gmail.com](mailto:danirenn16@gmail.com)
+
+💼 [LinkedIn](https://ca.linkedin.com/in/dani-ren)  
 
 <!--
 **daniCodes1/daniCodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
