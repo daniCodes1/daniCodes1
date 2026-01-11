@@ -12,6 +12,8 @@ Recently completed co-ops across **backend and frontend**, working on data pipel
 Delivered production-grade improvements across large-scale analytics pipelines and unblocking multi-region data ingestion, strengthening CI/CD and data integrity for customer-facing systems.
 ### 🚀 2024
 Full-stack development of a Python/Flask/JavaScript platform, delivering interactive features (geospatial maps, dynamic charts, customizable automated reports) alongside performance optimizations that improved research and reporting workflows.
+### Currently: 
+Studying Advanced AI and Data Visualization
 
 ## 🫶 What I love
 - Exploring how different systems work together  
