@@ -18,10 +18,11 @@ Full-stack development of a Python/Flask/JavaScript platform, delivering interac
 - Taking on new and exciting projects 
 
 ## 🌐 Let’s connect
-📧 [danirenn16@gmail.com](mailto:danirenn16@gmail.com)
+📧 [Email](mailto:danirenn16@gmail.com)
 
 💼 [LinkedIn](https://ca.linkedin.com/in/dani-ren)  
 
+🌐 [Portfolio](https://danicodes1.github.io/) *(updating)* 
 <!--
 **daniCodes1/daniCodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
