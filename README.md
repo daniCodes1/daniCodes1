@@ -4,20 +4,27 @@
 ## Hi, I'm Dani 👋 
 Final-year **Computer Science student at UBC** who loves building things that ship! 🛳️
 
-Recently completed co-ops across **backend and frontend**, working on data pipelines, automation, and user-facing tools and interfaces.
+1 year of hands-on **backend and frontend** experience, with work spanning data pipelines, automation, and user-facing tools and interfaces.
 
 ## Some Highlights ✨
 
 ### 🚀 2025 
-Delivered production-grade improvements across large-scale analytics pipelines and unblocking multi-region data ingestion, strengthening CI/CD and data integrity for customer-facing systems.
+Delivered production-grade improvements across large-scale analytics pipelines, unblocking multi-region data ingestion and strengthening CI/CD and data integrity for customer-facing systems.
 ### 🚀 2024
-Full-stack development of a Python/Flask/JavaScript platform, delivering interactive features (geospatial maps, dynamic charts, customizable automated reports) alongside performance optimizations that improved research and reporting workflows.
+Led full-stack development of a Python/Flask/JavaScript platform, delivering interactive features (geospatial maps, dynamic charts, customizable automated reports) and performance optimizations that improved research and reporting workflows.
 ### Currently: 
-Studying Advanced AI and Data Visualization
+Studying Intelligent Systems (advanced AI) and Data Visualization.
 
 ## 🫶 What I love
 - Exploring how different systems work together  
 - Taking on new and exciting projects 
+
+## 📚 Favourite Coursework
+- **Advanced Relational Databases**: RDBMS internals, indexing, query optimization  
+- **Algorithm Design & Analysis**: algorithm design, correctness proofs  
+- **Applied Machine Learning**: practical ML, reproducible workflows
+- **Introduction to Artificial Intelligence**: how intelligent agents reason, search, and make decisions
+
 
 ## 🌐 Let’s connect
 📧 [Email](mailto:danirenn16@gmail.com)
