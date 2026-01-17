@@ -44,7 +44,7 @@ Studying Intelligent Systems and Data Visualization.
 ## Let’s connect!
 [![Email](https://img.shields.io/badge/Email-danirenn16@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danirenn16@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dani%20Ren-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/dani-ren)
-[![Portfolio](https://img.shields.io/badge/Portfolio-danicodes1.github.io-000000?style=flat&logo=githubpages&logoColor=white)](https://danicodes1.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio(Updating...)-danicodes1.github.io-000000?style=flat&logo=githubpages&logoColor=white)](https://danicodes1.github.io/) 
 
 <!--
 **daniCodes1/daniCodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
