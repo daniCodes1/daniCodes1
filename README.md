@@ -37,7 +37,7 @@ Studying Intelligent Systems and Data Visualization.
 ## Favourite Coursework
 • Advanced Databases   
 • Algorithms  
-• Machine Learning  
+• Applied Machine Learning  
 • Artificial Intelligence
 
 
