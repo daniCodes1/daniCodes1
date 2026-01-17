@@ -19,8 +19,8 @@ Studying Intelligent Systems and Data Visualization.
 • Data-intensive systems and analytics pipelines  
 • Interactive features and user-facing interfaces, such as maps and charts
 
-## Favourite Coursework 
-• Advanced Databases
+## Favourite Coursework
+• Advanced Databases   
 • Algorithms  
 • Machine Learning  
 • Artificial Intelligence
