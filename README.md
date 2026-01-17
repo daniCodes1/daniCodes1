@@ -4,7 +4,7 @@
 ## Hi, I'm Dani 
 Final-year **Computer Science student at UBC** who loves building things that ship! 🛳️
 
-1 year of hands-on **backend and frontend** experience, with work spanning data pipelines, automation, and user-facing tools and interfaces.
+~1 year of hands-on **backend and frontend** experience, with work spanning data pipelines, automation, and user-facing tools and interfaces.
 
 ## Recent Internship Work
 
@@ -13,7 +13,7 @@ Delivered production-grade improvements across large-scale analytics pipelines, 
 ### 2024
 Led full-stack development of a Python/Flask/JavaScript platform, delivering interactive features (geospatial maps, dynamic charts, customizable automated reports) and performance optimizations that improved research and reporting workflows.
 ### Currently: 
-Studying Intelligent Systems (advanced AI) and Data Visualization.
+Studying Intelligent Systems and Data Visualization.
 
 ## What I love
 • Data-intensive systems and analytics pipelines  
