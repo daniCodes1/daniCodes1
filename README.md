@@ -17,10 +17,10 @@ Studying Intelligent Systems and Data Visualization.
 
 ## What I love
 • Data-intensive systems and analytics pipelines  
-• Interactive data products (maps, charts, reporting) 
+• Interactive features and user-facing interfaces, such as maps and charts
 
 ## Favourite Coursework 
-• Databases & Systems  
+• Advanced Databases
 • Algorithms  
 • Machine Learning  
 • Artificial Intelligence
