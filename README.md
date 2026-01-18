@@ -28,11 +28,11 @@ Delivered production-grade improvements across large-scale analytics pipelines, 
 ### 2024
 Led full-stack development of a Python/Flask/JavaScript platform, delivering interactive features (geospatial maps, dynamic charts, customizable automated reports) and performance optimizations that improved research and reporting workflows.
 ### Currently: 
-Studying Intelligent Systems and Data Visualization.
+Expanding my skill set through advanced coursework in Intelligent Systems and Data Visualization.
 
 ## What I love
 • Data-intensive systems and analytics pipelines  
-• Interactive features and user-facing interfaces
+• Interactive, user-facing features and interfaces
 
 ## Favourite Coursework
 • Advanced Databases   
