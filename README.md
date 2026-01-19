@@ -20,6 +20,12 @@ Final-year **Computer Science student at UBC** who loves building things that sh
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 
+## Let’s Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dani%20Ren-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/dani-ren)
+[![Email](https://img.shields.io/badge/Email-danirenn16%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:danirenn16@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-danicodes1.github.io-111111?style=flat&logo=githubpages&logoColor=white)](https://danicodes)
+
 
 ## Recent Internship Work
 
@@ -33,18 +39,6 @@ Expanding my skill set through advanced coursework in Intelligent Systems and Da
 ## What I love
 • Data-intensive systems and analytics pipelines  
 • Interactive, user-facing features and interfaces
-
-## Favourite Coursework
-• Advanced Databases   
-• Algorithms  
-• Applied Machine Learning  
-• Artificial Intelligence
-
-
-## Let’s connect!
-[![Email](https://img.shields.io/badge/Email-danirenn16@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danirenn16@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dani%20Ren-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/dani-ren)
-[![Portfolio](https://img.shields.io/badge/Portfolio(Updating...)-danicodes1.github.io-000000?style=flat&logo=githubpages&logoColor=white)](https://danicodes1.github.io/) 
 
 <!--
 **daniCodes1/daniCodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
