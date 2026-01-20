@@ -22,9 +22,9 @@ Final-year **Computer Science student at UBC** who loves building things that sh
 
 ## Let’s Connect!
 
-🌐 [Portfolio](https://dani-ren.netlify.app/)
-[📧 Email](mailto:danirenn16@gmail.com)  
-[💼 LinkedIn](https://ca.linkedin.com/in/dani-ren)  
+🌐 [Portfolio](https://dani-ren.netlify.app/)  
+📧 [Email](mailto:danirenn16@gmail.com)  
+💼 [LinkedIn](https://ca.linkedin.com/in/dani-ren)  
 
 ## Recent Internship Work
 
