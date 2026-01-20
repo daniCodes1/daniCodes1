@@ -22,10 +22,9 @@ Final-year **Computer Science student at UBC** who loves building things that sh
 
 ## Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Dani%20Ren-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/dani-ren)
-[![Email](https://img.shields.io/badge/Email-danirenn16%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:danirenn16@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-My%20Site-111111?style=flat&logo=githubpages&logoColor=white)](https://dani-ren.netlify.app/)
-
+🌐 [Portfolio](https://dani-ren.netlify.app/)
+[📧 Email](mailto:danirenn16@gmail.com)  
+[💼 LinkedIn](https://ca.linkedin.com/in/dani-ren)  
 
 ## Recent Internship Work
 
