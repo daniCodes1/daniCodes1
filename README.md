@@ -2,9 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&theme=cobalt)
 
 ## Hi, I'm Dani 
-Final-year **Computer Science student at UBC** who loves building things that ship! 🛳️
+Final-year **Computer Science student at UBC** who enjoys building systems that turn complex ideas into usable software.
 
-~1 year of hands-on **backend and frontend** experience, with work spanning data pipelines, automation, and user-facing tools and interfaces.
+~1 year of hands-on **full-stack experience**, with work spanning backend services, data pipelines, automation, and user-facing tools and interfaces.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
