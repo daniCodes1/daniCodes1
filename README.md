@@ -31,12 +31,12 @@ Final-year **Computer Science student at UBC** who enjoys building systems that 
 ### 2025 
 Delivered production-grade improvements across large-scale analytics pipelines, unblocking multi-region data ingestion and strengthening CI/CD and data integrity for customer-facing systems.
 ### 2024
-Led full-stack development of a Python/Flask/JavaScript platform, delivering interactive features (geospatial maps, dynamic charts, customizable automated reports) and performance optimizations that improved research and reporting workflows.
+Full-stack development on a Python/Flask/JavaScript platform, delivering interactive features (geospatial maps, dynamic charts, customizable automated reports) and performance optimizations that improved research and reporting workflows.
 ### Currently: 
 Expanding my skill set through advanced coursework in Intelligent Systems and Data Visualization.
 
 ## What I love
-• Data-intensive systems and analytics pipelines  
+• Designing scalable backend systems and data-intensive services
 • Interactive, user-facing features and interfaces
 
 <!--
