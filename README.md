@@ -36,7 +36,7 @@ Full-stack development on a Python/Flask/JavaScript platform, delivering interac
 Expanding my skill set through advanced coursework in Intelligent Systems and Data Visualization.
 
 ## What I love
-• Designing scalable backend systems and data-intensive services
+• Designing scalable backend systems and data-intensive services  
 • Interactive, user-facing features and interfaces
 
 <!--
