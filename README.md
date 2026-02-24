@@ -35,9 +35,9 @@ Full-stack development on a Python/Flask/JavaScript platform, delivering interac
 Expanding my skill set through advanced coursework in Intelligent Systems and Data Visualization.
 
 ## I enjoy
-• Designing backend systems that scale and remain reliable
-• Developing user-facing features that translate complex logic into practical outcomes
-
+* Designing backend systems that scale and remain reliable
+* Developing user-facing features that translate complex logic into practical outcomes
+  
 <!--
 **daniCodes1/daniCodes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
