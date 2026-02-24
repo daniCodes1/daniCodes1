@@ -2,9 +2,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=100&theme=cobalt)
 
 ## Hi, I'm Dani 
-Final-year **Computer Science student at UBC** who enjoys building systems that turn complex ideas into usable software.
 
-~1 year of hands-on **full-stack experience**, with work spanning backend services, data pipelines, automation, and user-facing tools and interfaces.
+Software engineer with ~1 year of hands-on **full-stack experience**, with work spanning backend services, data pipelines, automation, and user-facing tools and interfaces.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
@@ -29,8 +28,7 @@ Final-year **Computer Science student at UBC** who enjoys building systems that 
 ## Recent Internship Work
 
 ### 2025 
-Delivered production-grade improvements across large-scale backend systems, automating deployment and ingestion workflows while strengthening CI/CD and data integrity for customer-facing systems.
-
+Delivered production-grade improvements to large-scale backend systems in Python and Scala, automating deployment and ingestion workflows while strengthening CI/CD and data integrity for customer-facing systems.
 ### 2024
 Full-stack development on a Python/Flask/JavaScript platform, delivering interactive features (geospatial maps, dynamic charts, customizable reports) and performance optimizations that improved research and reporting workflows.
 ### Currently: 
