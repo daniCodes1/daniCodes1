@@ -3,7 +3,7 @@
 
 ## Hi, I'm Dani 
 
-Software engineer with ~1 year of hands-on **full-stack experience**, with work spanning backend services, data pipelines, automation, and user-facing tools and interfaces.
+With ~1 year of hands-on full-stack experience, I enjoy building systems spanning backend services, data pipelines, automation, and user-facing interfaces. I’m motivated by the constant learning that comes with building and improving software.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
